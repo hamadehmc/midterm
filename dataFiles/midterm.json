@@ -1,0 +1,122 @@
+[{
+    "part": "Mouse",
+    "model": "ME-2211",
+    "item_num": "JJ12-33",
+    "companies": 
+    [{
+        "name": "Computer Accessory",
+        "city": "Toronto",
+        "prov": "ON",
+        "contact": "Adam Tang"
+    },
+    {
+        "name": "TechComp Ltd",
+        "city": "New York",
+        "prov": "NY",
+        "contact": "Doug Seldon"
+    },
+    {
+        "name": "Staples",
+        "city": "Mississauga",
+        "prov": "ON",
+        "contact": ""
+    },
+    {
+        "name": "Walmart",
+        "city": "Scarborough",
+        "prov": "ON",
+        "contact": "Ab Wilson"
+    }],
+    "prices":
+    [  { "tier_level": 1,
+         "desc": "Less than 200",
+         "price": 35
+        },
+       { "tier_level": 2,
+         "desc": "201 to 300",
+         "price": 32 
+        },
+       { "tier_level": 3,
+         "desc": "More than 300",
+         "price": 30
+       }
+    ]
+},
+{
+     "part": "Mid-Tower Gaming Case",
+     "model": "90110-WW",
+     "item_num": "YYS2-6FE228",
+     "companies": 
+     [{
+         "name": "TigerDirect",
+         "city": "Toronto",
+         "prov": "ON",
+         "contact": "Doug Smith"
+     },
+     {
+         "name": "BestBuy",
+         "city": "Toronto",
+         "prov": "ON",
+         "contact": "Alvin Bell"
+     },
+     {
+         "name": "Wang's",
+         "city": "Brampton",
+         "prov": "ON",
+         "contact": "John Wang"
+     }],
+     "prices":
+     [  { "tier_level": 1,
+          "desc": "Less than 50",
+          "price": 250
+         },
+        { "tier_level": 2,
+          "desc": "51 to 100",
+          "price": 225 
+         },
+        { "tier_level": 3,
+          "desc": "More than 100",
+          "price": 200
+        }
+     ]
+ },
+{
+     "part": "Key Board",
+     "model": "KB-11223",
+     "item_num": "SE10-YY6CC",
+     "companies": 
+     [{
+         "name": "TigerDirect",
+         "city": "Toronto",
+         "prov": "ON",
+         "contact": "Doug Smith"
+     },
+     {
+         "name": "TechComp Ltd",
+         "city": "New York",
+         "prov": "NY",
+         "contact": "Doug Seldon"
+     },
+     {
+         "name": "Staples",
+         "city": "Mississauga",
+         "prov": "ON",
+         "contact": ""
+     }],
+     "prices":
+     [  { "tier_level": 1,
+          "desc": "Less than 100",
+          "price": 50
+         },
+        { "tier_level": 2,
+          "desc": "101 to 200",
+          "price": 45 
+         },
+        { "tier_level": 3,
+          "desc": "More than 200",
+          "price": 42
+        }
+     ]
+ }
+]
+ 
